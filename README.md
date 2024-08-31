@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello, I'm Jesus Gonzalez
+<a href="https://linkedin.com/in/jesusmgg"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**JG-CYBER/JG-CYBER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Cybersecurity student with a profound interest in technology and a dedication to solving complex problems. My passion for cybersecurity drives me to continuously expand my knowledge and skills in this ever-evolving field. I thrive on the challenge of identifying and mitigating security risks, always aiming to stay ahead of emerging threats. Through my projects, I aim to demonstrate my commitment to building a safer digital world. Whether it's through collaboration or individual effort, I believe in leveraging technology to create innovative solutions that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey in computer science has sparked a deep passion for cybersecurity, driving me to explore and understand the complexities of this critical field. I am now eager to transition into cybersecurity, with a specific focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst. I am excited about the opportunity to apply my technical skills, keen attention to detail, and problem-solving abilities in a dynamic environment where I can contribute to protecting vital digital assets while continuously learning and growing professionally.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Windows Server - AD - GPO - Network File Sharing (Home Lab) | <a href="https://google.com">Detection Lab</a>|
+
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- Windows Server - Active Directory
