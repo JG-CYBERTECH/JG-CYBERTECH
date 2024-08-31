@@ -34,6 +34,12 @@ My journey in computer science has sparked a deep passion for cybersecurity, dri
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Coding
+</div>
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" /> 
