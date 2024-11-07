@@ -13,7 +13,7 @@ My journey in computer science has sparked a deep passion for cybersecurity, dri
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Windows Server - AD - GPO - Network File Sharing (Home Lab) | <a href="https://github.com/JG-CYBERTECH/JG-CYBERTECH">WINServer-AD-GPO</a>|
+| Windows Server - AD - GPO - Network File Sharing (Home Lab) | <a href="https://github.com/JG-CYBERTECH/WINDOWS-SERVER---ACTIVE-DIRECTORY">WINServer-AD-GPO</a>|
 
 
 ## Tools
