@@ -3,7 +3,7 @@
 
 ## About Me
 
-I am a Cybersecurity student with a profound interest in technology and a dedication to solving complex problems. My passion for cybersecurity drives me to continuously expand my knowledge and skills in this ever-evolving field. I thrive on the challenge of identifying and mitigating security risks, always aiming to stay ahead of emerging threats. Through my projects, I aim to demonstrate my commitment to building a safer digital world. Whether it's through collaboration or individual effort, I believe in leveraging technology to create innovative solutions that make a difference.
+I am a IT/Cybersecurity student with a profound interest in technology and a dedication to solving complex problems. My passion for cybersecurity drives me to continuously expand my knowledge and skills in this ever-evolving field. I thrive on the challenge of identifying and mitigating security risks, always aiming to stay ahead of emerging threats. Through my projects, I aim to demonstrate my commitment to building a safer digital world. Whether it's through collaboration or individual effort, I believe in leveraging technology to create innovative solutions that make a difference.
 
 ## Objective
 
