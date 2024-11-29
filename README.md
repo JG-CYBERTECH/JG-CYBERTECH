@@ -58,7 +58,6 @@ My journey in computer science has sparked a deep passion for cybersecurity, dri
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Coursera&logoColor=white" /> 
-
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
