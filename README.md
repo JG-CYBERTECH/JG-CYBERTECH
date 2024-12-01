@@ -9,7 +9,7 @@ I am an IT/Cybersecurity student with a profound interest in technology and a de
 
 My journey in computer science has sparked a deep passion for information technology/cybersecurity, driving me to explore and understand the complexities of this critical field. I am now eager to transition into cybersecurity, specifically focusing on joining a Security Operations Center (SOC) as a Tier 1 Analyst. I am excited about the opportunity to apply my technical skills, keen attention to detail, and problem-solving abilities in a dynamic environment where I can contribute to protecting vital digital assets while continuously learning and growing professionally.
 
-## Skills
+## Technical Proficiencies
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
