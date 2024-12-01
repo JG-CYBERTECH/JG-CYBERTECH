@@ -3,11 +3,11 @@
 
 ## About Me
 
-I am an IT/Cybersecurity student with a profound interest in technology and a dedication to solving complex problems. My passion for cybersecurity drives me to continuously expand my knowledge and skills in this ever-evolving field. I thrive on the challenge of identifying and mitigating security risks, always aiming to stay ahead of emerging threats. Through my projects, I aim to demonstrate my commitment to building a safer digital world. Whether it's through collaboration or individual effort, I believe in leveraging technology to create innovative solutions that make a difference.
+I am an IT/Cybersecurity student with a profound interest in technology and a dedication to solving complex problems. My passion for cybersecurity drives me to expand my knowledge and skills in this ever-evolving field continuously. I thrive on the challenge of identifying and mitigating security risks, always aiming to stay ahead of emerging threats. I aim to demonstrate my commitment to building a safer digital world through my projects. Whether it's through collaboration or individual effort, I believe in leveraging technology to create innovative solutions that make a difference.
 
 ## Objective
 
-My journey in computer science has sparked a deep passion for Information-Technology/cybersecurity, driving me to explore and understand the complexities of this critical field. I am now eager to transition into cybersecurity, with a specific focus on joining a Security Operations Center (SOC) as a Tier 1 Analyst. I am excited about the opportunity to apply my technical skills, keen attention to detail, and problem-solving abilities in a dynamic environment where I can contribute to protecting vital digital assets while continuously learning and growing professionally.
+My journey in computer science has sparked a deep passion for information technology/cybersecurity, driving me to explore and understand the complexities of this critical field. I am now eager to transition into cybersecurity, specifically focusing on joining a Security Operations Center (SOC) as a Tier 1 Analyst. I am excited about the opportunity to apply my technical skills, keen attention to detail, and problem-solving abilities in a dynamic environment where I can contribute to protecting vital digital assets while continuously learning and growing professionally.
 
 ## Skills
 
@@ -16,7 +16,7 @@ My journey in computer science has sparked a deep passion for Information-Techno
 | Windows Server - AD - GPO - Network File Sharing (Home Lab) | <a href="https://github.com/JG-CYBERTECH/WINDOWS-SERVER---ACTIVE-DIRECTORY">WINServer-AD-GPO</a>|
 | Azure Creating Virtual Machines (Home Lab) | <a href="https://github.com/JG-CYBERTECH/Azure-vm">Azure-vm</a>|
 | Wireshark Traffic Analysis (Home Lab) | <a href="https://github.com/JG-CYBERTECH/WireShark">WireShark</a> |
-
+| osTicket (Home Lab) | <a href="https://github.com/JG-CYBERTECH/osTicket-Installation">osTicket Installation</a>|
 
 ## Tools
 
@@ -67,4 +67,6 @@ My journey in computer science has sparked a deep passion for Information-Techno
 - <a href="https://github.com/JG-CYBERTECH/Azure-vm">Azure-vm</a>
 
 -  <a href="https://github.com/JG-CYBERTECH/WireShark">WireShark</a>
+
+- <a href="https://github.com/JG-CYBERTECH/osTicket-Installation">osTicket Installation</a>
 
