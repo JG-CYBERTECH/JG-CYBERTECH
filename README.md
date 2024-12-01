@@ -16,7 +16,8 @@ My journey in computer science has sparked a deep passion for information techno
 | Windows Server - AD - GPO - Network File Sharing (Home Lab) | <a href="https://github.com/JG-CYBERTECH/WINDOWS-SERVER---ACTIVE-DIRECTORY">WINServer-AD-GPO</a>|
 | Azure Creating Virtual Machines (Home Lab) | <a href="https://github.com/JG-CYBERTECH/Azure-vm">Azure-vm</a>|
 | Wireshark Traffic Analysis (Home Lab) | <a href="https://github.com/JG-CYBERTECH/WireShark">WireShark</a> |
-| osTicket (Home Lab) | <a href="https://github.com/JG-CYBERTECH/osTicket-Installation">osTicket Installation</a>|
+| osTicket Part 1 (Home Lab) | <a href="https://github.com/JG-CYBERTECH/osTicket-Installation">osTicket Installation</a>|
+| osTicket Part 2 (Home Lab) | <a href="https://github.com/JG-CYBERTECH/osTicket-Lifecycle">osTicket Lifecycle</a>|
 
 ## Tools
 
@@ -69,4 +70,6 @@ My journey in computer science has sparked a deep passion for information techno
 -  <a href="https://github.com/JG-CYBERTECH/WireShark">WireShark</a>
 
 - <a href="https://github.com/JG-CYBERTECH/osTicket-Installation">osTicket Installation</a>
+
+- <a href="https://github.com/JG-CYBERTECH/osTicket-Lifecycle">osTicket Lifecycle</a>
 
