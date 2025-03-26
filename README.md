@@ -63,6 +63,11 @@ My journey in computer science has sparked a deep passion for information techno
     <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+## Badges & Training Platforms
+</div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/MJ.CYBER.png" alt="Your Image Badge" />
+</div>
+
 ## Projects
 - <a href="https://github.com/JG-CYBERTECH/WINDOWS-SERVER---ACTIVE-DIRECTORY">WINServer-AD-GPO</a>
 
